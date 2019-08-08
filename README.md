@@ -1,5 +1,7 @@
 # Stance Detection in Tweets
 
+Course Project for COL772 (Natural Language Processing).
+
 See the report at https://www.overleaf.com/read/hzcbwghksvxv.
 
 Stance Detection is the task of ascertaining
